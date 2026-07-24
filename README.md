@@ -59,7 +59,7 @@ Data Analyst • Analytics Solutions • Business Impact
 </p>
 
 ---
-## 📌 Featured Projects
+## ◉ Featured Projects
 
 ### 🛒 Ecommerce Intelligence System
 
@@ -102,7 +102,7 @@ Evaluated vendor performance across sales, profit and freight metrics. Built Tab
 🔗 **[View Project →](https://github.com/Ktulya-Analysis/Vendor-Performance-Analytics)**
 ---
 
-# 🏆 Achievements
+# ◉ Achievements
 
 🥇 **Top 7% Globally**
 
