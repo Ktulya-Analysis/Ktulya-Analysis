@@ -139,57 +139,6 @@ GCI World 2026 Data Science Competition
 
 📈 Ranked among **4,000+ international participants**
 
----
 
-# 📚 Currently Learning
 
-- Advanced SQL
-- dbt
-- BigQuery
-- Analytics Engineering
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ktulya-Analysis&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ktulya-Analysis&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktulya-Analysis&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="YOUR_GITHUB">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-⭐ *Building analytics systems that answer business questions—not just dashboards.*
+*Building analytics systems that answer business questions—not just dashboards.*
