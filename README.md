@@ -22,16 +22,16 @@ Data Analyst • Analytics Solutions • Business Impact
 
 ---
 
-## ▌About Me
+## ◉ Business Profile
 
-- Build end-to-end analytics solutions using **SQL, Python & PostgreSQL**
+- Build end-to-end analytics solutions for **real business problems**
 - Design **ETL pipelines, Star Schemas & Data Models**
 - Develop interactive **Tableau & Power BI dashboards** for business insights
 - Exploring **dbt, BigQuery & Modern Analytics Engineering**
 
 ---
 
-## ▌Tech Stack
+## ◉ Technology Stack
 
 <p align="left">
 
