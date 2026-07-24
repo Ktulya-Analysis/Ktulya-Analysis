@@ -61,7 +61,7 @@ Data Analyst • Analytics Solutions • Business Impact
 ---
 ## ◉ Featured Projects
 
-### 🛒 Ecommerce Intelligence System
+###  Ecommerce Intelligence System
 
 End-to-end analytics solution for the Olist ecommerce dataset (100K+ orders). Built ETL pipelines, dimensional models and Power BI dashboards to uncover customer and sales insights.
 
@@ -75,7 +75,7 @@ End-to-end analytics solution for the Olist ecommerce dataset (100K+ orders). Bu
 
 ---
 
-### 📈 Telecom Customer Analytics
+###  Telecom Customer Analytics
 
 Analyzed customer behavior and churn using SQL & Python. Built interactive dashboards to monitor KPIs and support retention strategies.
 
@@ -89,7 +89,7 @@ Analyzed customer behavior and churn using SQL & Python. Built interactive dashb
 
 ---
 
-### 📊 Vendor Performance Analytics
+###  Vendor Performance Analytics
 
 Evaluated vendor performance across sales, profit and freight metrics. Built Tableau dashboards to identify optimization opportunities.
 
@@ -102,7 +102,7 @@ Evaluated vendor performance across sales, profit and freight metrics. Built Tab
 🔗 **[View Project →](https://github.com/Ktulya-Analysis/Vendor-Performance-Analytics)**
 ---
 
-# ◉ Achievements
+## ◉ Achievements
 
 🥇 **Top 7% Globally**
 
