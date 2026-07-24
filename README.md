@@ -1,83 +1,195 @@
-Hi, I'm Kanishka 👋
+<h1 align="center">Hi 👋, I'm Kanishka Tulya</h1>
 
-Data Analytics Enthusiast
+<h3 align="center">
+Data Analyst • Analytics Engineer • Turning Data into Business Decisions
+</h3>
 
-Skills
+<p align="center">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🛠️ Tech Stack
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" />
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-</p>
+---
 
+## 💡 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
-</p>
+- 📊 Build end-to-end analytics solutions using **SQL, Python & PostgreSQL**
+- ⚙️ Design **ETL pipelines, Star Schemas & Data Models**
+- 📈 Develop interactive **Tableau & Power BI dashboards** for business insights
+- 🚀 Exploring **Analytics Engineering, dbt & BigQuery**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-4B5563?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Star%20Schema-6C63FF?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-</p>
+---
 
+# 🛠 Tech Stack
+
+### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=python" height="42"/>
+
 </p>
+
+### 🗄 Databases & Warehousing
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=postgres" height="42"/>
+
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+
 </p>
 
-Featured Projects
+### 📊 BI & Visualization
 
-📊 Vendor Performance Analytics
+<p align="left">
 
-📈 Telecom Customer Analytics
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 
-🛒 Ecommerce Intelligence System
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
 
-📚 Currently Learning
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-Advanced SQL
-dbt
-BigQuery
+</p>
 
-Achievements
+### ⚙️ Analytics Engineering
 
-Top 7% Global - GCI Data Science Competition
+<p align="left">
 
-Connect
+<img src="https://img.shields.io/badge/ETL-1976D2?style=for-the-badge"/>
 
-LinkedIn
-Portfolio
-Email## Hi there 👋
+<img src="https://img.shields.io/badge/Data%20Modeling-4B5563?style=for-the-badge"/>
 
-<!--
-**Ktulya-Analysis/Ktulya-Analysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Star%20Schema-7C3AED?style=for-the-badge"/>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+### 📚 Libraries
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="42"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 Featured Projects
+
+### 🛒 Ecommerce Intelligence System
+
+> End-to-end analytics engineering project using PostgreSQL, ETL pipelines, dimensional modeling, SQL analytics and Power BI dashboards to analyze **100K+ ecommerce orders**.
+
+**Tech Used**
+
+`SQL` `PostgreSQL` `Power BI` `ETL` `Star Schema`
+
+---
+
+### 📈 Telecom Customer Analytics
+
+> Built an end-to-end analytics solution to analyze customer behavior, churn patterns and revenue using SQL, Python, PostgreSQL and Power BI.
+
+**Tech Used**
+
+`Python` `SQL` `Power BI`
+
+---
+
+### 📦 Vendor Performance Analytics
+
+> Developed a vendor performance analytics solution to identify profitability, freight cost inefficiencies and inventory trends through SQL, Python and Tableau.
+
+**Tech Used**
+
+`Python` `SQL` `Tableau`
+
+---
+
+# 🏆 Achievements
+
+🥇 **Top 7% Globally**
+
+GCI World 2026 Data Science Competition
+
+📈 Ranked among **4,000+ international participants**
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- dbt
+- BigQuery
+- Analytics Engineering
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ktulya-Analysis&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ktulya-Analysis&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktulya-Analysis&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+⭐ *Building analytics systems that answer business questions—not just dashboards.*
