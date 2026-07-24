@@ -66,50 +66,37 @@ Data Analyst • Analytics Engineer • Turning Data into Business Decisions
 End-to-end analytics engineering solution using PostgreSQL, ETL pipelines, dimensional modeling and Power BI dashboards to analyze **100K+ ecommerce orders**.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" title="Python"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="26" title="Power BI"/>
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" width="26" title="dbt"/>
+  <img src="https://skillicons.dev/icons?i=postgres,python" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 **Technologies:** SQL • PostgreSQL • Power BI • ETL • Star Schema
-
-🔗 **Repository:**  
-https://github.com/Ktulya-Analysis/end-to-end-ecommerce-intelligence-system
 
 ---
 
 ### 📈 [Telecom Customer Analytics ↗](https://github.com/Ktulya-Analysis/telecom-customer-analytics)
 
-Built an end-to-end customer analytics solution to analyze churn, customer behavior and revenue using SQL, Python, PostgreSQL and Power BI.
+Built an end-to-end customer analytics solution to analyze customer behavior, churn patterns and revenue using SQL, Python, PostgreSQL and Power BI.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" title="Python"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="26" title="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=postgres,python" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 **Technologies:** SQL • Python • PostgreSQL • Power BI
-
-🔗 **Repository:**  
-https://github.com/Ktulya-Analysis/telecom-customer-analytics
 
 ---
 
 ### 📦 [Vendor Performance Analytics ↗](https://github.com/Ktulya-Analysis/Vendor-Performance-Analytics)
 
-Developed a vendor performance analytics solution to identify profitability, freight cost inefficiencies and inventory trends using SQL, Python and Tableau.
+Developed a vendor performance analytics solution to identify vendor profitability, freight cost inefficiencies and inventory trends using SQL, Python and Tableau.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" title="Python"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="26" title="Tableau"/>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 </p>
 
 **Technologies:** SQL • Python • Tableau
-
-🔗 **Repository:**  
-https://github.com/Ktulya-Analysis/Vendor-Performance-Analytics
-
 ---
 
 # 🏆 Achievements
