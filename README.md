@@ -59,36 +59,23 @@ Data Analyst • Analytics Engineer • Turning Data into Business Decisions
 </p>
 
 ---
+## 📊 Featured Projects
 
-# 📊 Featured Projects
+<p align="center">
 
-### 🛒 Ecommerce Intelligence System
+<a href="https://github.com/Ktulya-Analysis/end-to-end-ecommerce-intelligence-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktulya-Analysis&repo=end-to-end-ecommerce-intelligence-system&theme=tokyonight&hide_border=true" />
+</a>
 
-> End-to-end analytics engineering project using PostgreSQL, ETL pipelines, dimensional modeling, SQL analytics and Power BI dashboards to analyze **100K+ ecommerce orders**.
+<a href="https://github.com/Ktulya-Analysis/telecom-customer-analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktulya-Analysis&repo=telecom-customer-analytics&theme=tokyonight&hide_border=true" />
+</a>
 
-**Tech Used**
+<a href="https://github.com/Ktulya-Analysis/Vendor-Performance-Analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktulya-Analysis&repo=Vendor-Performance-Analytics&theme=tokyonight&hide_border=true" />
+</a>
 
-`SQL` `PostgreSQL` `Power BI` `ETL` `Star Schema`
-
----
-
-### 📈 Telecom Customer Analytics
-
-> Built an end-to-end analytics solution to analyze customer behavior, churn patterns and revenue using SQL, Python, PostgreSQL and Power BI.
-
-**Tech Used**
-
-`Python` `SQL` `Power BI`
-
----
-
-### 📦 Vendor Performance Analytics
-
-> Developed a vendor performance analytics solution to identify profitability, freight cost inefficiencies and inventory trends through SQL, Python and Tableau.
-
-**Tech Used**
-
-`Python` `SQL` `Tableau`
+</p>
 
 ---
 
