@@ -29,70 +29,39 @@ Data Analyst • Analytics Engineer • Turning Data into Business Decisions
 
 ---
 
-# 🛠 Tech Stack
-
-### 💻 Languages
+## 🛠️ Tech Stack
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
-
 <img src="https://skillicons.dev/icons?i=python" height="42"/>
 
-</p>
-
-### 🗄 Databases & Warehousing
-
-<p align="left">
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://skillicons.dev/icons?i=postgres" height="42"/>
-
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 
-</p>
-
-### 📊 BI & Visualization
-
-<p align="left">
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-</p>
-
-### ⚙️ Analytics Engineering
-
-<p align="left">
+<br><br>
 
 <img src="https://img.shields.io/badge/ETL-1976D2?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Data%20Modeling-4B5563?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Star%20Schema-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 
-</p>
-
-### 📚 Libraries
-
-<p align="left">
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-</p>
-
-### 🔧 Tools
-
-<p align="left">
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" height="42"/>
-
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 
 </p>
@@ -139,6 +108,6 @@ GCI World 2026 Data Science Competition
 
 📈 Ranked among **4,000+ international participants**
 
-
+---
 
 *Building analytics systems that answer business questions—not just dashboards.*
