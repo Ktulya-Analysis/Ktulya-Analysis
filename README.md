@@ -1,4 +1,40 @@
-## Hi there 👋
+Hi, I'm Kanishka 👋
+
+Data Analytics Enthusiast
+
+Skills
+
+✔ SQL
+✔ Python
+✔ PostgreSQL
+✔ Tableau
+✔ Power BI
+✔ Data Modeling
+✔ ETL
+
+Featured Projects
+
+📊 Vendor Performance Analytics
+
+📈 Telecom Customer Analytics
+
+🛒 Ecommerce Intelligence System
+
+📚 Currently Learning
+
+Advanced SQL
+dbt
+BigQuery
+
+Achievements
+
+Top 7% Global - GCI Data Science Competition
+
+Connect
+
+LinkedIn
+Portfolio
+Email## Hi there 👋
 
 <!--
 **Ktulya-Analysis/Ktulya-Analysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
