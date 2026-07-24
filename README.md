@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanishka Tulya</h1>
 
 <h3 align="center">
-Data Analyst • Analytics Engineer • Turning Data into Business Decisions
+Data Analyst • Analytics Solutions • Business Impact
 </h3>
 
 <p align="center">
@@ -24,10 +24,10 @@ Data Analyst • Analytics Engineer • Turning Data into Business Decisions
 
 ## 💡 About Me
 
-- 📊 Build end-to-end analytics solutions using **SQL, Python & PostgreSQL**
-- ⚙️ Design **ETL pipelines, Star Schemas & Data Models**
-- 📈 Develop interactive **Tableau & Power BI dashboards** for business insights
-- 🚀 Exploring **Analytics Engineering, dbt & BigQuery**
+- Build end-to-end analytics solutions using **SQL, Python & PostgreSQL**
+- Design **ETL pipelines, Star Schemas & Data Models**
+- Develop interactive **Tableau & Power BI dashboards** for business insights
+- Exploring **Analytics Engineering, dbt & BigQuery**
 
 ---
 
