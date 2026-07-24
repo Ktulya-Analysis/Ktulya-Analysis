@@ -104,12 +104,12 @@ Evaluated vendor performance across sales, profit and freight metrics. Built Tab
 
 ## ◉ Achievements
 
+
 🥇 **Top 7% Globally**
 
-GCI World 2026 Data Science Competition
+Ranked among **4,000+ participants** in the **Machine Learning Competition** hosted by the **Matsuo-Iwasawa Laboratory** (GCI World 2026 Data Science Program).
 
-📈 Ranked among **4,000+ international participants**
 
 ---
 
-*Building analytics systems that answer business questions—not just dashboards.*
+
