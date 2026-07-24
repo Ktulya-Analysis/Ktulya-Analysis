@@ -33,36 +33,26 @@ Data Analyst • Analytics Engineer • Turning Data into Business Decisions
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=python" height="42"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=postgres" height="42"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/ETL-1976D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Star%20Schema-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Modeling-6B7280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Star_Schema-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-
-&nbsp;&nbsp;&nbsp;
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="42"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
