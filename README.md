@@ -18,7 +18,7 @@ Data Analyst • Analytics Solutions • Business Impact
 
 ---
 
-## ◉ Business Profile
+## ◉ About me
 
 - Build end-to-end analytics solutions for **real business problems**
 - Design **ETL pipelines, Star Schemas & Data Models**
