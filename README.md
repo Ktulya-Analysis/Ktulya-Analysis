@@ -61,21 +61,33 @@ Data Analyst • Analytics Engineer • Turning Data into Business Decisions
 ---
 ## 📊 Featured Projects
 
-<p align="center">
+### 🛒 [Ecommerce Intelligence System](https://github.com/Ktulya-Analysis/end-to-end-ecommerce-intelligence-system)
 
-<a href="https://github.com/Ktulya-Analysis/end-to-end-ecommerce-intelligence-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktulya-Analysis&repo=end-to-end-ecommerce-intelligence-system&theme=tokyonight&hide_border=true" />
-</a>
+End-to-end analytics engineering solution using PostgreSQL, ETL pipelines, dimensional modeling and Power BI dashboards to analyze **100K+ ecommerce orders**.
 
-<a href="https://github.com/Ktulya-Analysis/telecom-customer-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktulya-Analysis&repo=telecom-customer-analytics&theme=tokyonight&hide_border=true" />
-</a>
+**Tech:** `SQL` `PostgreSQL` `Power BI` `ETL` `Star Schema`
 
-<a href="https://github.com/Ktulya-Analysis/Vendor-Performance-Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktulya-Analysis&repo=Vendor-Performance-Analytics&theme=tokyonight&hide_border=true" />
-</a>
+🔗 **Repository:** https://github.com/Ktulya-Analysis/end-to-end-ecommerce-intelligence-system
 
-</p>
+---
+
+### 📈 [Telecom Customer Analytics](https://github.com/Ktulya-Analysis/telecom-customer-analytics)
+
+Built an end-to-end customer analytics solution to analyze churn, customer behavior and revenue using SQL, Python, PostgreSQL and Power BI.
+
+**Tech:** `SQL` `Python` `PostgreSQL` `Power BI`
+
+🔗 **Repository:** https://github.com/Ktulya-Analysis/telecom-customer-analytics
+
+---
+
+### 📦 [Vendor Performance Analytics](https://github.com/Ktulya-Analysis/Vendor-Performance-Analytics)
+
+Developed a vendor performance analytics solution to identify profitability, freight cost inefficiencies and inventory trends using SQL, Python and Tableau.
+
+**Tech:** `SQL` `Python` `Tableau`
+
+🔗 **Repository:** https://github.com/Ktulya-Analysis/Vendor-Performance-Analytics
 
 ---
 
