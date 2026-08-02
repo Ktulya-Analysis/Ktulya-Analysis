@@ -28,7 +28,7 @@ Data Analyst
 - Analyzed **100K+ records** across multiple datasets.
 - Ranked **Top 7% globally** among **6,000+ participants** in the **GCI World 2026 Machine Learning Competition**.
 - Built **5 end-to-end analytics projects** covering customer, telecom, e-commerce, and vendor analytics.
-- Created **6+ interactive dashboards** using **Power BI** and **Tableau** for business decision-making.
+- Created **10+ interactive dashboards** using **Power BI** and **Tableau** for business decision-making.
 ---
 
 ## ◉ Technology Stack
