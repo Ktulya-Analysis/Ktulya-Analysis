@@ -20,11 +20,11 @@ Data Analyst • Analytics Solutions • Business Impact
 
 ## ◉ About me
 
-- Build end-to-end analytics solutions for **real business problems**
-- Design **ETL pipelines, Star Schemas & Data Models**
-- Develop interactive **Tableau & Power BI dashboards** for business insights
-- Exploring **dbt, BigQuery & Modern Analytics Engineering**
-
+- AI Data Analytics Intern @InAmigos Foundation | Former Software Developer Intern @Design Esthetics pvt ltd
+- Analyzed **100K+ records** across multiple datasets.
+- Ranked **Top 7% globally** among **6,000+ participants** in the **GCI World 2026 Machine Learning Competition**.
+- Built **5 end-to-end analytics projects** covering customer, telecom, e-commerce, and vendor analytics.
+- Created **5+ interactive dashboards** using **Power BI** and **Tableau** for business decision-making.
 ---
 
 ## ◉ Technology Stack
