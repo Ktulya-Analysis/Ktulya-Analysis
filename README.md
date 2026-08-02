@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kanishka Tulya</h1>
+<h3 align="center">
+Master of Computer Applications (MCA) • PES University
+</h3>
+
 
 <h3 align="center">
 Data Analyst • Analytics Solutions • Business Impact
