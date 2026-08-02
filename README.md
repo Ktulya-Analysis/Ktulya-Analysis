@@ -5,7 +5,7 @@ Master of Computer Applications (MCA) • PES University
 
 
 <h3 align="center">
-Data Analyst • Analytics Solutions • Business Impact
+Data Analyst 
 </h3>
 
 <p align="center">
