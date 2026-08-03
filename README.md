@@ -43,12 +43,11 @@ Data Analyst
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-4CAF50?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Data_Modeling-6B7280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-1976D2?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/ETL-1976D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Modeling-6B7280?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Star_Schema-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
