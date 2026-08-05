@@ -25,7 +25,7 @@ Data Analyst
 ## ◉ About me
 
 - AI Data Analytics Intern @InAmigos Foundation | Former Software Developer Intern @Design Esthetics pvt ltd
-- Analyzed **100K+ records** across multiple datasets.
+- Analyzed **1.56M+ records** across multiple datasets.
 - Ranked **Top 7% globally** among **6,000+ participants** in the **GCI World 2026 Machine Learning Competition**.
 - Built **5 end-to-end analytics projects** covering customer, telecom, e-commerce, and vendor analytics.
 - Created **10+ interactive dashboards** using **Power BI** and **Tableau** for business decision-making.
